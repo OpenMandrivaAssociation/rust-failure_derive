@@ -6,8 +6,8 @@
 %global crate failure_derive
 
 Name:           rust-%{crate}
-Version:        0.1.6
-Release:        2%{?dist}
+Version:        0.1.8
+Release:        1%{?dist}
 Summary:        Derives for the failure crate
 
 # Upstream license specification: MIT OR Apache-2.0
